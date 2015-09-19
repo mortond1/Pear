@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+<name>[username].github.com/pear</name>
+<summary>[username]'s PEAR Channel Server</summary>
+<alias>[username]</alias>
+<url>http://[username].github.com/pear</url>
+</server>
